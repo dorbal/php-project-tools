@@ -7,6 +7,7 @@ make install
 
 # Tools
 * phpunit/phpunit
+* phpunit/phpunit-skeleton-generator
 * fabpot/php-cs-fixer
 * squizlabs/php_codesniffer
 * phpmd/phpmd
