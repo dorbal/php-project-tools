@@ -1,0 +1,15 @@
+{
+    "name": "PHP Project Tools",
+    "authors": [
+        {
+            "name": "Dormány Balázs József (Doba, Dorbal)"
+        }
+    ],
+
+    "require": {
+	"phpunit/phpunit": "4.8.*",
+	"fabpot/php-cs-fixer": "@stable",
+	"squizlabs/php_codesniffer": "2.*",
+	"phpmd/phpmd" : "@stable"
+    }
+}
