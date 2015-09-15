@@ -11,3 +11,4 @@ make install
 * fabpot/php-cs-fixer
 * squizlabs/php_codesniffer
 * phpmd/phpmd
+* sensiolabs/security-checker
